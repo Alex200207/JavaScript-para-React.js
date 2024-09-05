@@ -23,7 +23,7 @@ console.log(tegnologias2);
 const resultado = tegnologias.includes("React");
 console.log(resultado);//true si el elemento esta en el arreglo
 
-//some-Devulve si almenos uno de los elementos cumple con la condicion
+//some-Devulve true si almenos uno de los elementos cumple con la condicion
 const resultado2 = numero.some(numero => numero > 5);
 console.log(resultado2);//true si almenos un elemento cumple con la condicion
 
