@@ -44,8 +44,6 @@ fetch(url)//pasas la url sobre la cual va obtener los datos
 //message es una propiedad que nos dice el mensaje de error
 
 
-
-
 //notas 
 //estado 200 quiere decir que todo esta bien
 //estado 404 quiere decir que no se encontro la pagina
