@@ -1,5 +1,6 @@
 //eventos con click en js
-
+//que es target en js
+//target es el elemento que dispara el evento
 //evento mas comun en js es el evento click
 
 const heading = document.querySelector('.heading')
