@@ -16,7 +16,7 @@ const numero = [1, 2, 4, 5, 6];
 //usando funcion arrow 
 //filter aplica para un arriglo de cualquier tipo de dato
 const tegnologias2 = tegnologias.filter(tech => tech !== "React");
-console.log(tegnologias2);
+console.log(tegnologias2); 
 
 //includes verifica si un elemento esta en un arreglo
 //no incluye un callback
@@ -45,6 +45,9 @@ const resultado6 = numero.reduce((total,numero)=>{//
     return total + numero;//total es el acumulado y numero es el valor actual
 },0)//el 0 es el valor inicial del total 
 console.log(resultado6);//18
+
+const resultado22 = numero.findIndex(numero => numero > 5);
+console.log(resultado22);//4
 
 
 

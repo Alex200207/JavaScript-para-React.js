@@ -1,4 +1,5 @@
 //desestructuracion de dos o mas objetos en js
+//la desestructuracion es una forma de extraer valores de un objeto
 
 const producto = {
     nombre: 'Monitor 20 Pulgadas',
